@@ -1,14 +1,16 @@
 # 자기소개
 
-> 안녕하세요 ! Javascript와 node.js 를 공부중인 **조민수** 입니다. 잘 부탁드립니다!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Do+Hyeon&size=33&duration=4000&pause=1000&color=60A5F7&width=435&lines=Hello+EveryOne!!+I'm+Min+Soo!!)](https://git.io/typing-svg)
 
 <br/>
 
-> 제 블로그는 <a href="https://iceflower.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a> 여기로 들어가시면 됩니다.
+# 블로그
+
+<a href="https://iceflower.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Tistory&logoColor=black"/></a>
 
 <br/>
 
-# Technology
+# 기술
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" /></div>
 
