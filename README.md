@@ -12,6 +12,7 @@
 * ### <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">  
 * ### <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 * ### ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+* ### <img src="https://img.shields.io/badge/Visual Studio Code-4479A1?style=flat&logo=Visual Studio Code&logoColor=white">
 
 
 
