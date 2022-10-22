@@ -26,7 +26,4 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talli0505&show_icons=true&theme=blue-green)
-<br/>
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talli0505)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talli0505&show_icons=true&theme=blue-green) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talli0505)
