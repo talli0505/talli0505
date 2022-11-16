@@ -2,6 +2,10 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinSoo%20Github!&fontSize=90" />	
 </div>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/talli0505/count.svg" />
+</p>
 
 # 블로그
 
@@ -39,9 +43,3 @@
 
 
 ![snake gif](https://github.com/talli0505/talli0505/blob/output/github-contribution-grid-snake.svg) 
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/talli0505/count.svg" />
-</p>
