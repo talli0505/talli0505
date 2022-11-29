@@ -37,9 +37,4 @@
 
 <br/><br/>
 
-|Stats|Langs|
-|:-----:|:-----:|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talli0505&show_icons=true&theme=blue-green)|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talli0505&show_icons=true&theme=blue-green)|
-
-
 ![snake gif](https://github.com/talli0505/talli0505/blob/output/github-contribution-grid-snake.svg)   
