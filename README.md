@@ -25,7 +25,7 @@
 
 <br/>
 
-<div align="center"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white">  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff">  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"></div>
+<div align="center"><img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">  <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white">  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff">  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"></div>
 
 <br/><br/>
 
