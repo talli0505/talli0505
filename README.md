@@ -1,6 +1,6 @@
-<div align=center>
+<!-- <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinSoo%20Github!&fontSize=90" />	
-</div>
+</div> -->
 
 <p align="center"> 
   Visitor count<br>
