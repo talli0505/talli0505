@@ -37,4 +37,10 @@
 
 <br/><br/>
 
+<div align="center">
+    <h2>GitHub</h2>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=talli0505&theme=react&line_height=40&hide=css"/>
+    <br>
+</div>
+
 ![snake gif](https://github.com/talli0505/talli0505/blob/output/github-contribution-grid-snake.svg)   
