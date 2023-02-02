@@ -43,4 +43,6 @@
     <br>
 </div>
 
+<br/><br/>
+
 ![snake gif](https://github.com/talli0505/talli0505/blob/output/github-contribution-grid-snake.svg)   
